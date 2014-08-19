@@ -2,5 +2,8 @@ standard-app-packages
 iron-router
 less
 bootstrap3-less
-accounts-ui-bootstrap-dropdown
+iron-router-progress
+bootstrap
 accounts-password
+accounts-ui-bootstrap-3
+bootstrap-3
