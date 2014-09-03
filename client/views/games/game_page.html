@@ -1,4 +1,9 @@
 <template name="gamePage">
   {{> gameItem}}
-  {{> hands}}
+  <h3>Rounds</h3>
+  <ul>
+  {{#each rounds}}
+    {{> round}}
+  {{/each}}
+  </ul>
 </template>
